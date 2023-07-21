@@ -35,6 +35,9 @@ body {
   color: var(--white);
   -webkit-font-smoothing: antialiased;
   /* Fonts mais detalhadas/nítidas */
+
+  max-width: 1320px;
+  margin: 0 auto;
 }
 
 button,
